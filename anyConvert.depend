@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1722421291 source:c:\users\lolipop\downloads\anyconvert\anyconvertfiles\anyconvert\main.cpp
+	<tchar.h>
+	<windows.h>
+	"convertions/mp42WebP.h"
+
+1722421414 source:c:\users\lolipop\downloads\anyconvert\anyconvertfiles\anyconvert\convertions\mp42webp.cpp
+	<string>
+	<windows.h>
+	"mp42WebP.h"
+
+1722236716 c:\users\lolipop\downloads\anyconvert\anyconvertfiles\anyconvert\convertions\mp42webp.h
+	<string>
+
