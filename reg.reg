@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.mp4\shell\ConvertToWebP]
+@="Convert to WebP"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.mp4\shell\ConvertToWebP\command]
+@="\"C:\\path\\to\\anyConvert.exe" \"%1\""
